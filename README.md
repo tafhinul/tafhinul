@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there 👋, I'm Tafhinul Hossain Shahim
+#### Machine learning and data science
+![Machine learning and data science](https://lh3.googleusercontent.com/pw/AP1GczPzwqyGP4Mdk5737wZA_rhZH7_LuQosqiXOEVH83ErRsq8rzkWmjip09pp1jG6G_BenXfqLJpzMeC_j3reSFpJ1Nr7xiRnthOU0-pK749f84UyS6x-b56ePogAb9d2TgW48Y1RbSpZ63NQbSfWcOCnPVHgX6hDMpiul6tUbz0ZS92M0dWsiTqz9rP3C9aNgBtROiLLu96hw4zwcQkJlpofppEYvRM1CVXY258WNHtLMwgbQ-hQomJLhaBLHMh_90InrDdxGLt41OzrcEoegK3xh61gHG71Yg90YcHjJp7WCiHvj4U68lJ4FOQoptK6pViWYu1HGre6HaLC8s9H1jzYu6pkSzRRLvKrdeZuZyyfd1HRoheDXbdGiZGdGLUeJNPldEx0P1pYW9eej3jJ0My3KeIDA8qa3VA9V4mbtTfcLW6YcM-n-jwd4y3Ot2BFg6hzmvwngMnpa15ws8J75f4T_rjNO7XJyqwjbvqvuL-hPdqfF9euMYZTQSAlbQzBCCdfJkwsmQX_w0k8DX-StRtzES80z-PpqH2tU6-BOaGoxn2hXxUSTekdAFZymd71d7FKUMi0yvX2WcE2TGpscRPfbQ68MCD00qqORLMdmV3GdO3OULZvW4IrwuOevZNLH6lHqcbYiabjxtvgmrcno_8WsxFdm17Go5E3oMUpO5HVyIySf-PBTvDsZhTrwqJrZe-gjOEZtND3YNMEnWRxhRyVVaWgu7pieysOZ-7gMFtiGLnzISPq6-PR8VvzwX_SHx3x76J-46c4FaAhkBbS1V3Z53F5oi09beczqFiNY0WI_qncoicaTvT3Oju02z8s5ArS3y62bmWxk4VkGMovgyP014cJtx05bVFLLN33AfqG2oywiIEVtSDjNT4SiBJwPYFa3pECONeSbfwEmxfWzm7AvdCzo=w928-h928-s-no-gm?authuser=0)
 
-<!--
-**tafhinul/tafhinul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a 4th year student pursuing Bachelors in Computer Science & Engineering(CSE)
+⛵ I have been working with Machine learning  
+😄 Pronouns: He/him/his
 
-Here are some ideas to get you started:
+Skills: Python / JS / HTML / CSS/ PHP/ C / C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on /loading.............. 
+- 🌱 I’m currently learning /loading............... 
+- 👯 I’m looking to collaborate on github 
+- 🤔 I’m looking for help with Data Scientist 
+- 💬 Ask me about Programming, Machine Learning, Data Science 
+- ⚡ Fun fact: return 0; 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tafhinul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tafhinul hossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tafhinul Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/t_h shahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Tafhinul Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Tafhinul hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Tafhinul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Tafhinul Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](tafhinulhossain1414)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tafhinul)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tafhinul)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tafhinul&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Tafhinul/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Tafhinul)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Tafhinul)  
+
