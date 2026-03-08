@@ -1,38 +1,74 @@
-### Hi there 👋, I'm Tafhinul Hossain Shahim
-#### Junior Programmer | AI & Data Science Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Tafhinul+Hossain+Shahim;Junior+Programmer;AI+%7C+Machine+Learning" />
+</p>
 
-![Machine learning and data science](https://lh3.googleusercontent.com/pw/AP1GczPzwqyGP4Mdk5737wZA_rhZH7_LuQosqiXOEVH83ErRsq8rzkWmjip09pp1jG6G_BenXfqLJpzMeC_j3reSFpJ1Nr7xiRnthOU0-pK749f84UyS6x-b56ePogAb9d2TgW48Y1RbSpZ63NQbSfWcOCnPVHgX6hDMpiul6tUbz0ZS92M0dWsiTqz9rP3C9aNgBtROiLLu96hw4zwcQkJlpofppEYvRM1CVXY258WNHtLMwgbQ-hQomJLhaBLHMh_90InrDdxGLt41OzrcEoegK3xh61gHG71Yg90YcM-n-jwd4y3Ot2BFg6hzmvwngMnpa15ws8J75f4T_rTjNO7XJyqwjbvqvuL-hPdqfF9euMYZTQSAlbQzBCCdfJkwsmQX_w0k8DX-StRtzES80z-PpqH2tU6-BOaGoxn2hXxUSTekdAFZymd71d7FKUMi0yvX2WcE2TGpscRPfbQ68MCD00qqORLMdmV3GdO3OULZvW4IrwuOevZNLH6lHqcbYiabjxtvgmrcno_8WsxFdm17Go5E3oMUpO5HVyIySf-PBTvDsZhTrwqJrZe-gjOEZtND3YNMEnWRxhRyVVaWgu7pieysOZ-7gMFtiGLnzISPq6-PR8VvzwX_SHx3x76J-46c4FaAhkBbS1V3Z53F5oi09beczqFiNY0WI_qncoicaTvT3Oju02z8s5ArS3y62bmWxk4VkGMovgyP014cJtx05bVFLLN33AfqG2oywiIEVtSDjNT4SiBJwPYFa3pECONeSbfwEmxfWzm7AvdCzo=w928-h928-s-no-gm?authuser=0)
+<h3 align="center">Junior Programmer | AI & Data Science | Machine Learning | Computer Vision</h3>
 
-💼 Junior Programmer at **New Technology Systems Ltd.**    
-🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
-🧠 Working on **Deep Learning for Dental Caries Detection using Panoramic Radiographs**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tafhinul&label=Profile%20views&color=0e75b6&style=flat" alt="tafhinul profile views" />
+</p>
 
-### Skills
-Python | Machine Learning | Deep Learning | TensorFlow | Computer Vision  
-JavaScript | React | HTML | CSS | PHP  
-C | C++ | Oracle SQL | PL/SQL  
+<br/>
 
-- 🔭 I’m currently working on **Enterprise Software Systems and AI-based projects**
-- 🌱 I’m currently learning **Advanced Deep Learning and Data Science**
-- 👯 I’m looking to collaborate on **Machine Learning and Open Source projects**
-- 🤔 I’m looking for guidance and opportunities in **Data Science and AI**
-- 💬 Ask me about **Programming, Machine Learning, and Data Science**
-- ⚡ Fun fact: `return 0;`
+---
 
+# 👨‍💻 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tafhinul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tafhinul hossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tafhinul Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/t_h shahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Tafhinul Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Tafhinul hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Tafhinul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Tafhinul Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](tafhinulhossain1414)  
+- 🔭 I’m currently working as **Junior Programmer at New Technology Systems Ltd.**
+- 🧠 Researching **AI-based Dental Caries Detection using Panoramic Radiographs**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**
+- 🌱 Currently learning **Advanced Deep Learning, Computer Vision, and MLOps**
+- 👯 I’m looking to collaborate on **Machine Learning and Open Source AI projects**
+- 💬 Ask me about **Python, TensorFlow, Deep Learning, Computer Vision, and Data Science**
+- ⚡ Fun fact: **I love turning medical images into intelligent AI solutions!**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tafhinul)](https://github.com/ryo-ma/github-profile-trophy)
+# 🛠️ Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tafhinul)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,html,css,php,mysql,docker,linux,git,github&perline=7" />
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tafhinul&show_icons=true&count_private=true)  
+---
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Tafhinul/contributions?format=svg&private=true)  
+# 🚀 Featured Projects
 
-![GitHub metrics](https://metrics.lecoq.io/Tafhinul)  
+| 🦷 AI Dental Caries Detection | 🐟 Fish Species Classification |
+|---|---|
+| Deep Learning system for detecting **dental caries using panoramic radiographs (OPG)** with **YOLO, CNN, and Grad-CAM explainability**. | Image classification model for identifying **67 fish species** using **MobileNetV2 and Deep Learning techniques**. |
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Tafhinul)  
+| 📊 AI Research Projects | 🧠 Computer Vision Projects |
+|---|---|
+| Research on **Artificial Intelligence for Dental Diagnosis** using panoramic radiography images. | Experiments with **DenseNet, VGG16, Faster R-CNN and YOLOv8** for object detection and classification tasks. |
 
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tafhinul&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=tafhinul&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tafhinul&theme=radical" />
+</p>
+
+---
+
+# 🤝 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tafhinul">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
