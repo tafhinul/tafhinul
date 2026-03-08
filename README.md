@@ -1,19 +1,23 @@
 ### Hi there 👋, I'm Tafhinul Hossain Shahim
-#### Machine learning and data science
-![Machine learning and data science](https://lh3.googleusercontent.com/pw/AP1GczPzwqyGP4Mdk5737wZA_rhZH7_LuQosqiXOEVH83ErRsq8rzkWmjip09pp1jG6G_BenXfqLJpzMeC_j3reSFpJ1Nr7xiRnthOU0-pK749f84UyS6x-b56ePogAb9d2TgW48Y1RbSpZ63NQbSfWcOCnPVHgX6hDMpiul6tUbz0ZS92M0dWsiTqz9rP3C9aNgBtROiLLu96hw4zwcQkJlpofppEYvRM1CVXY258WNHtLMwgbQ-hQomJLhaBLHMh_90InrDdxGLt41OzrcEoegK3xh61gHG71Yg90YcHjJp7WCiHvj4U68lJ4FOQoptK6pViWYu1HGre6HaLC8s9H1jzYu6pkSzRRLvKrdeZuZyyfd1HRoheDXbdGiZGdGLUeJNPldEx0P1pYW9eej3jJ0My3KeIDA8qa3VA9V4mbtTfcLW6YcM-n-jwd4y3Ot2BFg6hzmvwngMnpa15ws8J75f4T_rjNO7XJyqwjbvqvuL-hPdqfF9euMYZTQSAlbQzBCCdfJkwsmQX_w0k8DX-StRtzES80z-PpqH2tU6-BOaGoxn2hXxUSTekdAFZymd71d7FKUMi0yvX2WcE2TGpscRPfbQ68MCD00qqORLMdmV3GdO3OULZvW4IrwuOevZNLH6lHqcbYiabjxtvgmrcno_8WsxFdm17Go5E3oMUpO5HVyIySf-PBTvDsZhTrwqJrZe-gjOEZtND3YNMEnWRxhRyVVaWgu7pieysOZ-7gMFtiGLnzISPq6-PR8VvzwX_SHx3x76J-46c4FaAhkBbS1V3Z53F5oi09beczqFiNY0WI_qncoicaTvT3Oju02z8s5ArS3y62bmWxk4VkGMovgyP014cJtx05bVFLLN33AfqG2oywiIEVtSDjNT4SiBJwPYFa3pECONeSbfwEmxfWzm7AvdCzo=w928-h928-s-no-gm?authuser=0)
+#### Junior Programmer | AI & Data Science Enthusiast
 
-🎓 I am a 4th year student pursuing Bachelors in Computer Science & Engineering(CSE)
-⛵ I have been working with Machine learning  
-😄 Pronouns: He/him/his
+![Machine learning and data science](https://lh3.googleusercontent.com/pw/AP1GczPzwqyGP4Mdk5737wZA_rhZH7_LuQosqiXOEVH83ErRsq8rzkWmjip09pp1jG6G_BenXfqLJpzMeC_j3reSFpJ1Nr7xiRnthOU0-pK749f84UyS6x-b56ePogAb9d2TgW48Y1RbSpZ63NQbSfWcOCnPVHgX6hDMpiul6tUbz0ZS92M0dWsiTqz9rP3C9aNgBtROiLLu96hw4zwcQkJlpofppEYvRM1CVXY258WNHtLMwgbQ-hQomJLhaBLHMh_90InrDdxGLt41OzrcEoegK3xh61gHG71Yg90YcM-n-jwd4y3Ot2BFg6hzmvwngMnpa15ws8J75f4T_rTjNO7XJyqwjbvqvuL-hPdqfF9euMYZTQSAlbQzBCCdfJkwsmQX_w0k8DX-StRtzES80z-PpqH2tU6-BOaGoxn2hXxUSTekdAFZymd71d7FKUMi0yvX2WcE2TGpscRPfbQ68MCD00qqORLMdmV3GdO3OULZvW4IrwuOevZNLH6lHqcbYiabjxtvgmrcno_8WsxFdm17Go5E3oMUpO5HVyIySf-PBTvDsZhTrwqJrZe-gjOEZtND3YNMEnWRxhRyVVaWgu7pieysOZ-7gMFtiGLnzISPq6-PR8VvzwX_SHx3x76J-46c4FaAhkBbS1V3Z53F5oi09beczqFiNY0WI_qncoicaTvT3Oju02z8s5ArS3y62bmWxk4VkGMovgyP014cJtx05bVFLLN33AfqG2oywiIEVtSDjNT4SiBJwPYFa3pECONeSbfwEmxfWzm7AvdCzo=w928-h928-s-no-gm?authuser=0)
 
-Skills: Python / JS / HTML / CSS/ PHP/ C / C++
+💼 Junior Programmer at **New Technology Systems Ltd.**    
+🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
+🧠 Working on **Deep Learning for Dental Caries Detection using Panoramic Radiographs**  
 
-- 🔭 I’m currently working on /loading.............. 
-- 🌱 I’m currently learning /loading............... 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with Data Scientist 
-- 💬 Ask me about Programming, Machine Learning, Data Science 
-- ⚡ Fun fact: return 0; 
+### Skills
+Python | Machine Learning | Deep Learning | TensorFlow | Computer Vision  
+JavaScript | React | HTML | CSS | PHP  
+C | C++ | Oracle SQL | PL/SQL  
+
+- 🔭 I’m currently working on **Enterprise Software Systems and AI-based projects**
+- 🌱 I’m currently learning **Advanced Deep Learning and Data Science**
+- 👯 I’m looking to collaborate on **Machine Learning and Open Source projects**
+- 🤔 I’m looking for guidance and opportunities in **Data Science and AI**
+- 💬 Ask me about **Programming, Machine Learning, and Data Science**
+- ⚡ Fun fact: `return 0;`
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tafhinul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tafhinul hossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tafhinul Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/t_h shahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Tafhinul Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Tafhinul hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Tafhinul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Tafhinul Hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](tafhinulhossain1414)  
