@@ -14,7 +14,7 @@
 
 # 👨‍💻 About Me
 
-- 🔭 I’m currently working as **Junior Programmer at New Technology Systems Ltd.**
+- 🔭 I’m currently working as **Back End Developer at FixWing.**
 - 🧠 Researching **AI-based Dental Caries Detection using Panoramic Radiographs**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**
 - 🌱 Currently learning **Advanced Deep Learning, Computer Vision, and MLOps**
