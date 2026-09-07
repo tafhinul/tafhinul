@@ -23,14 +23,185 @@
 - ⚡ Fun fact: **I love turning medical images into intelligent AI solutions!**
 
 ---
-
-# 🛠️ Languages and Tools
+**# 🛠️ Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,html,css,php,mysql,docker,linux,git,github&perline=7" />
   </a>
+</p>**
+
+
+# 🛠️ Languages & Tools
+
+<!-- ==================== MAIN SKILLS ==================== -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,html,css,php,mysql,postgres,docker,linux,git,github&perline=8" />
+  </a>
 </p>
+
+---
+
+<!-- ==================== PROGRAMMING ==================== -->
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,php&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <code>Python</code> ·
+  <code>JavaScript</code> ·
+  <code>PHP</code>
+</p>
+
+---
+
+<!-- ==================== AI / ML ==================== -->
+
+## 🤖 AI / Machine Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <code>TensorFlow</code> ·
+  <code>PyTorch</code> ·
+  <code>OpenCV</code> ·
+  <code>YOLO</code> ·
+  <code>ResNet</code> ·
+  <code>SAM</code> ·
+  <code>Grad-CAM</code>
+</p>
+
+---
+
+<!-- ==================== WEB DEVELOPMENT ==================== -->
+
+## 🌐 Web Development
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,php&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Frontend:</b>
+  <code>HTML5</code> ·
+  <code>CSS3</code> ·
+  <code>JavaScript</code> ·
+  <code>React</code>
+</p>
+
+<p align="center">
+  <b>Backend:</b>
+  <code>PHP</code>
+</p>
+
+---
+
+<!-- ==================== DATABASE ==================== -->
+
+## 🗄️ Databases & SQL
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <code>Oracle Database</code> ·
+  <code>PostgreSQL</code> ·
+  <code>MySQL</code> ·
+  <code>SQL</code> ·
+  <code>PL/SQL</code>
+</p>
+
+---
+
+<!-- ==================== ORACLE ==================== -->
+
+## 🏢 Oracle Technologies
+
+<p align="center">
+
+  <img
+    src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+    alt="Oracle Database"
+  />
+
+  <img
+    src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+    alt="PL/SQL"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+    alt="Oracle APEX"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+    alt="Oracle Forms"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Oracle%20Reports-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+    alt="Oracle Reports"
+  />
+
+</p>
+
+### 🔧 Oracle Development Tools
+
+<p align="center">
+
+  <img
+    src="https://img.shields.io/badge/Toad%20for%20Oracle-4B0082?style=for-the-badge"
+    alt="Toad for Oracle"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+    alt="Oracle SQL Developer"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Oracle%20Forms%20Builder-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+    alt="Oracle Forms Builder"
+  />
+
+</p>
+
+---
+
+<!-- ==================== DEVOPS ==================== -->
+
+## ⚙️ DevOps & Version Control
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <code>Docker</code> ·
+  <code>Linux</code> ·
+  <code>Git</code> ·
+  <code>GitHub</code>
+</p>
+
 
 ---
 
