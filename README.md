@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Tafhinul+Hossain+Shahim;Junior+Programmer;AI+%7C+Machine+Learning" />
 </p>
 
-<h3 align="center">Junior Programmer | AI & Data Science | Machine Learning | Computer Vision</h3>
+<h3 align="center"> Software Engineer | Database Architect | AI & Data Science | Machine Learning |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tafhinul&label=Profile%20views&color=0e75b6&style=flat" alt="tafhinul profile views" />
@@ -14,7 +14,7 @@
 
 # 👨‍💻 About Me
 
-- 🔭 I’m currently working as **Back End Developer at FixWing.**
+- 🔭 I’m currently working as **Database Architect at FixWing.**
 - 🧠 Researching **AI-based Dental Caries Detection using Panoramic Radiographs**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science**
 - 🌱 Currently learning **Advanced Deep Learning, Computer Vision, and MLOps**
